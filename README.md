@@ -6,6 +6,8 @@ My goal is to help businesses harness data to uncover actionable insights and ma
 
 ❎ Excel | 🐬 SQL | 📶 Power BI
 
-📂 Check out my project portfolio on Medium ➡️ [@jpgontarz](https://medium.com/@jpgontarz)
+📌 Check out my latest project [here](https://medium.com/@jpgontarz/hello-world-594a10f3dd9a).
+
+📂 View my project portfolio on Medium ➡️ [@jpgontarz](https://medium.com/@jpgontarz)
 
 🤝 Connect with me on LinkedIn ➡️ [jpgontarz](https://www.linkedin.com/in/jpgontarz/)
