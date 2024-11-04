@@ -6,7 +6,7 @@ My goal is to help businesses harness data to uncover actionable insights and ma
 
 ❎ Excel | 🐬 SQL | 📶 Power BI
 
-📌 Check out my [latest project](https://medium.com/@jpgontarz/hello-world-594a10f3dd9a)
+📌 Check out my [latest project](https://medium.com/@jpgontarz/sql-project-hr-analytics-attrition-performance-54cb3a4a0054)
 
 📂 View my [project portfolio](https://www.datascienceportfol.io/jpgontarz)
 
