@@ -6,7 +6,7 @@ My goal is to help businesses harness data to uncover actionable insights and ma
 
 ❎ Excel | 🐬 SQL | 📶 Power BI
 
-📌 Check out my [latest project](https://github.com/jpgontarz/Power-BI-Project-HR-Analytics-Dashboard/tree/main)
+📌 Check out my [latest project](https://medium.com/@jpgontarz/power-bi-project-hr-analytics-dashboard-e942eb750ae7)
 
 📂 View my [project portfolio](https://www.datascienceportfol.io/jpgontarz)
 
