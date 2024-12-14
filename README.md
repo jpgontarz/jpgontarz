@@ -2,9 +2,11 @@
 
 ## Hello, my name is Jonathan Gontarz 👋
 
-I am a data analyst with over 5 years of experience working in the food & beverage and workforce analysis industries, specializing in data cleaning & transformation, data analysis & reporting, and data visualization.
+I am an HR-focused data analyst with over 5 years of experience in workforce analysis and business intelligence.
 
-My goal is to help businesses harness data to uncover actionable insights and make informed decisions.
+I specialize in transforming complex data into actionable insights that enhance recruitment, talent strategy, and employee engagement.
+
+With expertise in data cleaning, analysis, and visualization, I am passionate about empowering organizations to navigate challenges, seize opportunities, and drive innovation through informed decision-making.
 
 ❎ Excel | 🐬 SQL | 📶 Power BI
 
