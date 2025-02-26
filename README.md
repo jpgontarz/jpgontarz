@@ -1,4 +1,4 @@
-![LinkedIn Banner (1)](https://github.com/user-attachments/assets/88fa166b-a938-45f5-b535-bce23d713e93)
+![LinkedIn Banner](https://github.com/user-attachments/assets/3dccbe98-c149-42f4-8dab-f81245de6624)
 
 ## Hello, my name is Jonathan Gontarz 👋
 
