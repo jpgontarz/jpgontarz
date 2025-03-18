@@ -2,11 +2,11 @@
 
 ## Hello, my name is Jonathan Gontarz 👋
 
-I am an HR-focused data analyst with over 5 years of experience in workforce analysis and business intelligence.
-
-I specialize in transforming complex data into actionable insights that enhance recruitment, talent strategy, and employee engagement.
+I am a data analyst with over 5 years of experience in data analysis and business intelligence. I specialize in transforming complex data into actionable insights.
 
 With expertise in data cleaning, analysis, and visualization, I am passionate about empowering organizations to navigate challenges, seize opportunities, and drive innovation through informed decision-making.
+
+Proficient in Excel, SQL, and Power BI, I am highly skilled at analyzing large datasets to uncover actionable insights and enhance business performance.
 
 ❎ Excel | 🐬 SQL | 📶 Power BI
 
